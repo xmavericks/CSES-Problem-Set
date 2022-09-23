@@ -1,5 +1,9 @@
 import java.util.*;
 
+/*
+https://cses.fi/problemset/task/1069
+*/
+
 class Repetitions {
     public static void main(String[] args) {
         char current = '\0';
