@@ -1,4 +1,7 @@
 import java.util.*;
+/*
+https://cses.fi/problemset/task/1094
+*/
 
 class IncreasingArrray {
     public static void main(String[] args) {
